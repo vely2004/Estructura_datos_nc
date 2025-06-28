@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc\\Semana2\\semana2.csproj": {}
+    "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc-1\\semana2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc\\Semana2\\semana2.csproj": {
+    "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc-1\\semana2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc\\Semana2\\semana2.csproj",
+        "projectUniqueName": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc-1\\semana2.csproj",
         "projectName": "semana2",
-        "projectPath": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc\\Semana2\\semana2.csproj",
+        "projectPath": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc-1\\semana2.csproj",
         "packagesPath": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc\\Semana2\\obj\\",
+        "outputPath": "C:\\Users\\cemin.DESKTOP-B8H90EL\\.vscode\\Estructura_datos_nc-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cemin.DESKTOP-B8H90EL\\AppData\\Roaming\\NuGet\\NuGet.Config"
