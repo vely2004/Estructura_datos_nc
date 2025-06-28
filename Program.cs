@@ -51,7 +51,7 @@ public class Cuadrado
 // Clase principal del programa
 class Program
 {
-    static void Main()
+    static void Mostrar()
     {
         // Crear un objeto de tipo Circulo con radio 5
         Circulo c = new Circulo(5);
