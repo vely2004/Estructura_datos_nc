@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 // Clase que representa un círculo
 public class Circulo
@@ -49,7 +49,7 @@ public class Cuadrado
 }
 
 // Clase principal del programa
-class Program
+partial class Program
 {
     static void Mostrar()
     {

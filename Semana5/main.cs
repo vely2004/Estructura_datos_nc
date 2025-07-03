@@ -1,8 +1,8 @@
-using System;
+//using System;
 
-class ProgramaPrincipal
-{
-    static void Main()
+//class ProgramaPrincipal
+//{
+    //static void Main()
     {
         Console.WriteLine("Ejecutando ejercicio 1:");
         Ejercicio1.Mostrar();
@@ -21,4 +21,4 @@ class ProgramaPrincipal
         contador.MostrarResultado();
 
     }
-}
+//}
