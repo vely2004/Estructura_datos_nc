@@ -1,5 +1,0 @@
-C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Estructura_datos_nc-1\obj\Debug\net9.0\semana2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Estructura_datos_nc-1\obj\Debug\net9.0\semana2.AssemblyInfoInputs.cache
-C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Estructura_datos_nc-1\obj\Debug\net9.0\semana2.AssemblyInfo.cs
-C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Estructura_datos_nc-1\obj\Debug\net9.0\semana2.csproj.CoreCompileInputs.cache
-C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Estructura_datos_nc-1\obj\Debug\net9.0\semana2.sourcelink.json
